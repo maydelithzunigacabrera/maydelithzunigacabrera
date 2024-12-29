@@ -10,8 +10,8 @@ Hi, I’m Maydelith Zuñiga 👋
 
 <div align="center">
   <a href="https://github.com/maydelithzunigacabrera">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=radymillacristiano&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maydelithzunigacabrera&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maydelithzunigacabrera&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -37,11 +37,8 @@ Hi, I’m Maydelith Zuñiga 👋
   ##
  
   <div>
-  <a href="https://www.behance.net/radymillacristiano" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://dribbble.com/Radymilla" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/radymilla" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/radymilla_camilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/radymilla-cristiano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/maydelithlaurazunigacabrera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/maydelith-cabrera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
     
 ![Snake animation](https://github.com/radymillacristiano/radymillacristiano/blob/output/github-contribution-grid-snake.svg)
