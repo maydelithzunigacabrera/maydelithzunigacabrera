@@ -7,15 +7,11 @@ Hi, I’m Maydelith Zuñiga 👋
 - 🔬 STEAM Innovator & Researcher
 - 💬 Model United Nations Delegate
 - 🖋️ Designer and Content Creator
-
-
-
 <div align="center">
   <a href="https://github.com/maydelithzunigacabrera">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maydelithzunigacabrera&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maydelithzunigacabrera&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rady-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rady-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
